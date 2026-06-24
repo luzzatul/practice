@@ -1,1 +1,3 @@
 this is two txt file 
+
+added some new text test-conflict
